@@ -1,0 +1,11 @@
+.backimage{
+background-image: url(/assets/img/Soldado_Seccion2.jpeg);
+background-repeat: no-repeat;
+
+}
+
+.backimage2{
+    background-image: url(/assets/img/latam_upsell_hero1_weblandscape_2560x960_050422.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
